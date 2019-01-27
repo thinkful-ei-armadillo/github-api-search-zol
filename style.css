@@ -1,0 +1,16 @@
+* {
+    box-sizing: border-box;
+}
+
+.container {
+    margin-right: auto;
+    margin-left: auto;
+    max-width: 60%; 
+    padding-top: 100px;
+}
+
+.hidden {
+    display: none;
+}
+ 
+ 
